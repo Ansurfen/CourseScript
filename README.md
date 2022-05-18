@@ -1,0 +1,2 @@
+# CourseScript
+Just course script
